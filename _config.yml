@@ -1,0 +1,76 @@
+# Your name and what you do
+name: Benjamin BELOT
+bio: 1998, unix enthusiast, net&sysadmin
+
+description: Bienvenue sur mon site
+
+# Profile picture TO CHANGE
+picture: assets/images/profile.jpg
+
+# your url: http://USERNAME.github.io
+url: https://benjaminformaticien.info
+
+# do you want to display social media links? true or false
+social-media: true
+# Add your username for the social media websites listed below
+# If you don't have an account on any of them, comment out the line
+# facebook: myfacebook
+twitter: fail2ben
+linkedin: benjaminbelot
+reddit: Benjaminateur
+github: benbelo
+email: benjaminformaticien@gmail.com
+
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+# youtube: myyoutube
+# spotify: myspotify
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# do you want to display an about section? true or false
+about: false
+
+# do you want to display a skills section? true or false
+skills: true
+
+# add your skills here
+skills-list: 
+    - Linux - Debian, Redhat, CentOS, FreeBSD, NetBSD<br />
+    - Networking - Fw (Iptables, Ufw, Palo Alto), VPN (OpenVPN, Wireguard), Routing (Cisco, Linux, BGP, OSPF)<br />
+    - Cloud - Google Cloud Platform, Google Workspace, Azure AD, AWS (EC2, S3, VPC, ROUTE53)<br />
+    - Automation - Git, Ansible, Rudder, Bash scripting<br />
+    - Virtu/Containerization - ESXi, Xen, Proxmox, LXC, Docker
+
+# do you want to display a projects section? true or false
+projects: false
+
+# add your projects here, this is not used
+project-list:
+    Linux:
+        name: Linux
+        description: Debian, Redhat, CentOS, FreeBSD, NetBSD
+    Networking:
+        name: Networking
+        description: Fw (Iptables, Ufw, Palo Alto), VPN (OpenVPN, Wireguard), Routing (Cisco, Linux, BGP, OSPF)
+
+# do you want to display the theme attribution? true or false
+footer: true
+
+# Enable animations? true or false
+animation: true
+
+gems:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
