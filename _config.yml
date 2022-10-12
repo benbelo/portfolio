@@ -49,7 +49,7 @@ skills: true
 skills-list: 
     - Linux - Debian, Redhat, CentOS, FreeBSD, NetBSD<br />
     - Networking - Fw (Iptables, Ufw, Palo Alto), VPN (OpenVPN, Wireguard), Routing (Cisco, Linux, BGP, OSPF)<br />
-    - Cloud - Google Cloud Platform, Google Workspace, Azure AD, AWS (EC2, S3, VPC, ROUTE53)<br />
+    - Cloud - Google Cloud Platform, Google Workspace, Azure AD, AWS (EC2, ECS, S3, VPC, Amplify, ROUTE 53)<br />
     - Automation - Git, Ansible, Rudder, Bash scripting<br />
     - Virtu/Containerization - ESXi, Xen, Proxmox, LXC, Docker
 
