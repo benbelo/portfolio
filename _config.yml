@@ -5,7 +5,7 @@ bio: 1998, unix enthusiast, net&sysadmin
 description: Bienvenue sur mon site
 
 # Profile picture TO CHANGE
-picture: assets/images/profile.jpg
+# picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
 url: https://benjaminformaticien.info
